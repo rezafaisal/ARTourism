@@ -1,2 +1,2 @@
 # ARTourism
-Augmented Reality for Tourism Brochure
+Augmented Reality Android App for Tourism Brochure
